@@ -28,5 +28,14 @@ Filling the username and delete it.
 <hr>
 
 
+### Algorithm 
+I used both AES and DES to test the performance of the encryption now. Maybe I will expand more 
+algorithm later.
+
 > The passwords.csv is the performance of the stored password. It shows that how passwords be encrypted and stored in the .csv file.
 ![Performance](icons/performance.png "password in file")
+row[0] = username   
+row[1] = ciphertext      
+row[2] = nonce      
+row[3] = tag 
+
