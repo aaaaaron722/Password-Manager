@@ -28,5 +28,5 @@ Filling the username and delete it.
 <hr>
 
 
-The passwords.csv is the performance of the stored password. It shows that how passwords be encrypted and stored in the .csv file.
-
+> The passwords.csv is the performance of the stored password. It shows that how passwords be encrypted and stored in the .csv file.
+![Performance](icons/performance.png "password in file")
