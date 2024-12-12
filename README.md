@@ -27,3 +27,6 @@ List the .csv file content. Remember to choose one of the algorithm so that you 
 Filling the username and delete it.
 <hr>
 
+
+The passwords.csv is the performance of the stored password. It shows that how passwords be encrypted and stored in the .csv file.
+
